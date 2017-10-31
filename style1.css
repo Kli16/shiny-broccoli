@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Karla');
+
+h1{
+  color: #FF5733;
+  font-size: 80px;
+  font-family: 'Josefin Sans';
+  text-align: center;
+  background-color: #F1F1F1;
+  height:200px;
+  padding-top: 100px;
+}
+
+h2{
+  color: #4FA2C6;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Josefin Sans';
+  height:50px;
+  padding-top: 30px;
+  background-color: #FFBA66;
+
+}
+
+h3{
+  text-align: center;
+  color: #4FA2C6;
+  font-family: 'Josefin Sans';
+  background-color: #FFBA66;
+  height:50px;
+  padding-top: 30px;
+}
+
+p{
+  color: #1B4BBA;
+  font-family: 'Karla';
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+li{
+  color: #1B4BBA;
+  font-family: 'Karla';
+}
+
+a{
+  color: #1B4BBA;
+  font-family: 'Karla';
+}

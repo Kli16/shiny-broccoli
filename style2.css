@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+h1{
+  color: #FFDDFF;
+  font-size: 80px;
+  font-family: 'Source Code Pro';
+  text-align: center;
+  background-color: #1A054A;
+  height:200px;
+  padding-top: 100px;
+}
+
+h2{
+  color: #1A054A;
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Source Code Pro';
+}
+
+h3{
+  text-align: left;
+  color: #1A054A;
+  font-family: 'Source Code Pro';
+}
+
+p{
+  color: #1A054A;
+  font-family: 'Source Code Pro';
+  text-align: center;
+
+}
+
+li{
+  color: #1A054A;
+  font-family: 'Source Code Pro';
+  text-align: center;
+}
+
+a{
+  color: #1B4BBA;
+  font-family: 'Source Code Pro';
+}
