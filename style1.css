@@ -46,3 +46,27 @@ a{
   color: #1B4BBA;
   font-family: 'Karla';
 }
+
+.extreme{
+  font-size: 10px;
+}
+
+.navzone{
+  text-align: right;
+}
+
+.content{
+  color: SlateBlue;
+}
+
+.prose{
+  border: 30px solid #ff6347;
+}
+
+#head1 {
+  border: 10px solid MediumSeaGreen;
+}
+
+#tehlulz {
+  border: 2px solid goldenrod;
+}
